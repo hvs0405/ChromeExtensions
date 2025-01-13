@@ -7,21 +7,21 @@
   {
     "title": "Product 2",
     "image": "https://raw.githubusercontent.com/hvs0405/ChromeExtensions/main/images/product2.jpg",
-    "link": "https://www.amazon.com/dp/product2"
+    "link": "https://amzn.to/4fTe88b"
   },
   {
     "title": "Product 3",
     "image": "https://raw.githubusercontent.com/hvs0405/ChromeExtensions/main/images/product3.jpg",
-    "link": "https://www.amazon.com/dp/product3"
+    "link": "https://amzn.to/4fTe88b"
   },
   {
     "title": "Product 4",
     "image": "https://raw.githubusercontent.com/hvs0405/ChromeExtensions/main/images/product4.jpg",
-    "link": "https://www.amazon.com/dp/product4"
+    "link": "https://amzn.to/4fTe88b"
   },
   {
     "title": "Product 5",
     "image": "https://raw.githubusercontent.com/hvs0405/ChromeExtensions/main/images/product5.jpg",
-    "link": "https://www.amazon.com/dp/product5"
+    "link": "https://amzn.to/4fTe88b"
   }
 ]
